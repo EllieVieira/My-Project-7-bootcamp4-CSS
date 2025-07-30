@@ -1,0 +1,94 @@
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: Raleway;
+}
+
+.banner {
+    height: 600px;
+    background-image: linear-gradient(rgba(0, 0, 0), #113c4e, rgba(0, 0, 0)), url(assets/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+.banner h1 {
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    color: transparent;
+    font-weight: 900;
+}
+
+/* cores do gradiente do texto
+#33A8DB, #1472B7
+
+cor do botão
+#3BA1CD, #1572B7)
+
+cor do h2, link e textos azuis do site, e da sombra do Transforme o mundo
+#33A8DB;
+
+course-content
+top 669px, left 332px, gap 24px
+
+transform-world
+bordas com o azul e 1px 1px 1px 0
+
+tamanho da imagem traansforme
+width 659px
+height 429 px
+top 1685px
+left 390 px
+
+evolua e encare
+width 746px
+height 76px
+top 1577px
+left 347 px
+
+font-family: Raleway;
+weight 700
+style bold
+size 32px
+letter spacing 19%
+center
+
+juntese ao nosso
+width 792px
+height 76px
+top 2154px
+left 324 px
+
+font-family: Raleway;
+weight 400
+style regular
+size 16px
+center
+ */
+.banner-content {
+    /* width: 600px; */
+    height: 444px;
+}
+
+course-content {
+    /* width: 800px; */
+    height: 330px;
+}
+
+.transform-world {
+    /* width: 1444px; */
+    height: 560px;
+}
+
+.professional-challenges {
+    /* width: 800px; */
+    height: 671px;
+}
+
+footer {
+    /* width: 1444px; */
+    height: 186px;
+}
