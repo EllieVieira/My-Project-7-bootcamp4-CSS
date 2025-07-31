@@ -41,7 +41,6 @@ body {
     color: transparent;
     font-weight: 900;
     font-size: 2.5rem;
-
 }
 
 .banner p {
@@ -62,23 +61,6 @@ body {
     letter-spacing: 5px;
 }
 
-
-/* 
-
-
-
-juntese ao nosso
-width 792px
-height 76px
-top 2154px
-left 324 px
-
-font-family: Raleway;
-weight 400
-style regular
-size 16px
-center
- */
 .banner-content {
     width: 600px;
     height: 600px;
@@ -150,9 +132,8 @@ a {
 }
 
 #professional-challenges {
-    /* width: 800px; */
     height: 671px;
-margin: 50px auto;
+    margin: 50px auto;
 
 }
 
